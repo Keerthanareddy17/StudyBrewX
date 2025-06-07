@@ -26,6 +26,13 @@ StudyBrewX uses a multi-agent system, implemented with **LangGraph + LangChain**
 | 🛠️ `path_builder_agent` | Combines resources and weekly goals into a sequential learning plan. |
 | 📝 `weekly_task_generator_agent` | Assigns practical tasks (mini-projects, reflections, challenges) for each week. |
 
+
+
+![ChatGPT Image Jun 7, 2025 at 02_34_52 PM](https://github.com/user-attachments/assets/b52718eb-2af2-4c1d-95c4-cbc933a8cfe8)
+
+
+
+
 ---
 
 ## 🛠️ Tech Stack & Libraries
@@ -48,6 +55,10 @@ StudyBrewX uses a multi-agent system, implemented with **LangGraph + LangChain**
 4. **Task Assignment**: Hands-on or reflective weekly tasks generated
 5. **Display**: UI shows weekly breakdown with links + task info
 6. **Export**: Option to download the entire plan as Excel
+
+
+<img width="468" alt="Screenshot 2025-06-07 at 14 42 29" src="https://github.com/user-attachments/assets/43a9501c-8bc9-49a9-bb20-068b76d94a4a" />
+
 
 ---
 
