@@ -1,0 +1,8 @@
+streamlit
+langchain
+langgraph
+groq
+python-dotenv
+openpyxl
+schedule
+XlsxWriter
